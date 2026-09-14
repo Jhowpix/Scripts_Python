@@ -28,7 +28,7 @@ O objetivo é aprender e praticar Python de forma gradual, colocando em prática
 ## 💻 Ambiente
 
 * Python 3
-* Visual Studio Code
+* PyCharm
 * Git / GitHub
 
 ## 🎯 Objetivo
